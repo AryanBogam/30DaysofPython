@@ -9,6 +9,6 @@ I'm building strong fundamentals in Python by solving problems daily for 30 days
 - Publicly show my commitment to MBZUAI and future employers
 
 - ### 🛠️ Tools Used:
-- Python 3.11
+- Python 3.12
 - VSCode / Jupyter Notebook
 - Git & GitHub
